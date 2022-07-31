@@ -4,7 +4,7 @@ title: Timelapse Twist
 description: This project’s goal is to create time lapses which will “move” by slowly rotating the camera around two axes, up-down and left-right, using motors.
 date: 2000-01-26 09:00:00
 hero_image: /web/img/Timelapse-Twist/Hero.png
-image: /web/img/Timelapse-Twist/Hero.png
+# image /web/img/Timelapse-Twist/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
